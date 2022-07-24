@@ -1,2 +1,3 @@
-# kaj_website_repo
-Keith Alexander Jr.'s Website Repository 
+# Keith Alexander Jr.'s Website Repository 
+
+Repository Name: kaj_website_repo
